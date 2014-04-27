@@ -20,6 +20,6 @@ You should create one R script called run_analysis.R that does the following:
 * In R, change the current directory to the *UCI HAR Dataset* folder.
 * Run script run_analysis.R in the current directory : source("run_analysis.R")
 * The script will write two files in the current directory:
-..*samsungData.txt -- 8.3MB
-..*samsung_tidy_data.txt -- 225KB
+[samsungData.txt -- 8.3MB]
+[samsung_tidy_data.txt -- 225KB]
 
